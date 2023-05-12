@@ -1,6 +1,6 @@
 ---
 title: 'Penang, 9-11 December 2022'
-image: ''
+image: 'https://penangfoodie.com/wp-content/uploads/2018/06/penang-island-malaysia.jpg'
 created: 2023-5-12
 updated: 2022-5-12
 tags:
