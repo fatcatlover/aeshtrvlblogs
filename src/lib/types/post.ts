@@ -64,11 +64,11 @@ export type GiscusConfig = {
 export type UtterancesConfig = {
 </script>
   /** self-hosted utterances url. */
-  src?: 'https://utterance.es/client.js'
+  src?: string
   /** choose the repository utterances will connect to. */
-  repo: 'fatcatlover/aeshtrvlblogs'
+  repo: string
   /** choose the label that will be assigned to issues created by utterances. */
-  label?: 'comment'
+  label?: string
   /** choose an utterances theme that matches your blog. */
-  theme?: 'preferred-color-scheme'
+  theme?: string
 }
