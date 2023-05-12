@@ -1,6 +1,6 @@
 ---
 title: 'Kuala Kangsar'
-image: '/hello-world/urara.webp'
+image: ''
 created: 2021-11-01
 updated: 2021-12-12
 tags:
