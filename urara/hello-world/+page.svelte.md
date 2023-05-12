@@ -1,6 +1,6 @@
 ---
 title: 'Penang, 9-11 December 2022'
-image: '/hello-world/penang image.jpg'
+image: 'files/urara/hello-world/penang image.jpg'
 created: 2023-5-12
 updated: 2022-5-12
 tags:
