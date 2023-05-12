@@ -29,3 +29,12 @@ After the night market, I headed back to the Travelodge Georgetown hotel for som
 On the third and final day of my trip, I had breakfast at Hutton Lane and then proceed to my next destination, Kuala Kangsar.
 
 I hope this blog has given you some inspiration for your next trip to Penang. With its unique blend of culture, cuisine, and history, this vibrant city has something for everyone.
+
+
+<script src="https://utteranc.es/client.js"
+        repo="fatcatlover/aeshtrvlblogs"
+        issue-term="pathname"
+        theme="preferred-color-scheme"
+        crossorigin="anonymous"
+        async>
+</script>
