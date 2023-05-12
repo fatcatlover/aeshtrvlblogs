@@ -1,6 +1,6 @@
 ---
 title: Cameron Highlands 
-image: 'https://i0.wp.com/connect.emgs.com.my/wp-content/uploads/2017/07/20150819-cameron-highlands-11.jpg?fit=1200%2C800&ssl=1'
+image: 'https://youimg1.tripcdn.com/target/10021f000001gxdfa0050_C_640_320_R5.jpg_.webp?proc=source%2ftrip'
 created: 2023-5-12
 tags: ['Malaysia', 'Popular places', 'Cool places']
 ---
