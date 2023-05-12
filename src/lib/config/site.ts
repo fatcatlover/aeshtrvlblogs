@@ -8,7 +8,7 @@ export const site: SiteConfig = {
   lang: 'en-US',
   description: 'We have variety of blogs written! Choose one below',
   author: {
-    avatar: '/assets/maskable@512.png',
+    avatar: 'https://drive.google.com/file/d/1KajdOHWe9ZtV7wXraExTYuikX_frJEP8/view?usp=drivesdk',
     name: 'Aesh',
     status: '',
     bio: '👇🏻'
