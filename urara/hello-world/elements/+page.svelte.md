@@ -18,4 +18,13 @@ We had breakfast at 7 Strawberry Farm (156, 59, Tringkap, 39000 Tanah Rata, Paha
 
 Overall, our trip to Cameron Highlands was a great experience. I would highly recommend the places we visited and would give them 4-5-star ratings on Google Maps. The BOH Tea Centre, 200 Seeds Cafe, and Pasar Pagi Kea Farm are definitely a must-visit. If you're planning to go, don't forget to try the sambal strawberry and bring extra cash for souvenirs and food! Hope this helps!
 
+<script>
+  import { YouTube, Spotify, SoundCloud } from 'sveltekit-embed'
+</script>
+
+<YouTube youTubeId="dVflGCc9ouo" />
+
+<br />
+
+
 # I hope the blog gives you inspiration to visit Cameron Highlands.
